@@ -1,0 +1,12 @@
+1. Run all file : pytest
+2. Run Specific file: pytest <filename>
+    example: pytest .\6_Pytest\test_demo1.py
+3. Run specific Function: pytest .\6_Pytest\test_demo1.py -k <substring>
+    example: pytest .\6_Pytest\test_demo1.py -k sqrt -v
+4. Grouping tests: pytest -m <markname> -v
+    example: pytest .\6_Pytest\test_demo3.py -m valid -v
+
+
+Generate Report:
+1. Install pytest-html-reporter
+

@@ -1,0 +1,28 @@
+1675923156209	geckodriver	INFO	Listening on 127.0.0.1:50318
+1675923159292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50319" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileyd3MJZ"
+1675923159953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675923159960	Marionette	INFO	Listening on port 50330
+Read port: 50330
+WebDriver BiDi listening on ws://127.0.0.1:50319
+1675923160125	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileyd3MJZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50319/devtools/browser/ede926b4-5b4e-495a-b5df-f2b65769a8b0
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1ltCRSOx5k-1I0D0UILHPXNozEC50ZuHf8HEjBLxTFM.js line 2 > eval line 4903 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1ltCRSOx5k-1I0D0UILHPXNozEC50ZuHf8HEjBLxTFM.js line 2 > eval line 3024 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675923378947	Marionette	INFO	Stopped listening on port 50330
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileIhvFNX"
+1675923314037	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675923314041	Marionette	INFO	Listening on port 50475
+Read port: 50475
+WebDriver BiDi listening on ws://127.0.0.1:50468
+1675923314172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileIhvFNX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50468/devtools/browser/c90e5b1b-b14e-44c0-adfd-579678c5f9e7
+JavaScript warning: https://automationexercise.com/static/js/jquery.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://pagead2.googlesyndication.com/bg/1ltCRSOx5k-1I0D0UILHPXNozEC50ZuHf8HEjBLxTFM.js line 2 > eval line 2561 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1675926460685	Marionette	INFO	Stopped listening on port 50475
+Dynamically enable window occlusion 1

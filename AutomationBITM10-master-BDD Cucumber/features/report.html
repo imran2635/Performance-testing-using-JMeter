@@ -1,0 +1,10 @@
+Feature: Login # login.feature:1
+  As a user
+  I want to be able to log in to the website
+  So that i can access yb account
+  Scenario: Successful login                                      # login.feature:6
+    Given I am on the login page                                  # steps/login_steps.py:8
+    When I enter my username and password                         # steps/login_steps.py:14
+    When I click on login button                                  # steps/login_steps.py:29
+    Then I should be redirect to dashboard page and close browser # steps/login_steps.py:38
+

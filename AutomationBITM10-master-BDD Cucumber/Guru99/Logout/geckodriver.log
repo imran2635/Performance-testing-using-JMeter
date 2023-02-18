@@ -1,0 +1,14 @@
+1674885295303	geckodriver	INFO	Listening on 127.0.0.1:52782
+1674885298382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileTkkVLC"
+1674885298849	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674885298853	Marionette	INFO	Listening on port 52791
+WebDriver BiDi listening on ws://127.0.0.1:52783
+Read port: 52791
+1674885299077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Asus\\AppData\\Local\\Temp\\rust_mozprofileTkkVLC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52783/devtools/browser/de161b5e-7890-4a65-a917-43cd5852b52e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+1674885316223	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1674885331397	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
